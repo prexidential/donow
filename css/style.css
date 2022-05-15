@@ -292,8 +292,8 @@ a:focus {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-width: 300px;
-  height: 325px;
+  min-width: 450px;
+  height: 525px;
   background-size: cover;
 }
 
@@ -303,7 +303,7 @@ a:focus {
 }
 
 .service_img-container .service_img-box.i-box-2 {
-  width: 40%;
+  width: 80%;
   background-image: url(../images/s-2.jpg);
 }
 
